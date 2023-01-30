@@ -23,3 +23,9 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardo6904&show_icons=true&locale=en&layout=compact" alt="ricardo6904" /></p>
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo6904&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ricardo6904&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
