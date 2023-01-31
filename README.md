@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **Ionic, Angular**
 
+- 👍Languages: **Spanish/English**
+
 ---
 
 ## 🌐 Socials:
