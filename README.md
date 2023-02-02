@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m **digital nomad**
+- 🔭 I’m a **Digital Nomad**
 
 - 🌱 I’m currently learning **JAVA, ArcGIS**
 
